@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "angular-graph",
+    "libraryId": "3d0b3ff0-b396-499e-b106-51e82c6d0cb0",
+    "environment": "spo"
+  }
+}

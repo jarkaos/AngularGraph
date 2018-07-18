@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "angular-graph-client-side-solution",
+    "id": "3d0b3ff0-b396-499e-b106-51e82c6d0cb0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-graph.sppkg"
+  }
+}
